@@ -1,6 +1,6 @@
 # Assignment 3 - Track 1
 
-Julyan Keller-Baruch - 260388157
+Julyan Keller-Baruch 
 
 
 3 files were written:
